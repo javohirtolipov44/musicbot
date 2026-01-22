@@ -24,7 +24,7 @@ def keep_alive():
 keep_alive()
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8259575713:AAHONkoTzwjh4Up_UxJ-3-QInYi_jwSrLp4'
+API_TOKEN = '8158093361:AAELuYvWD7CqucE9GxkYILbgBPk3AqNnzmo'
 FIXED_ARTIST = "Subscribe"
 FIXED_ALBUM = "@freestyle_beat"
 IMAGE_PATH = "cover.jpg"
